@@ -43,7 +43,7 @@ by using the `d3.csv` function. Your scatter plot should ultimately appear like 
 
 Why make a static graphic when D3 lets you interact with your data?
 
-![alt test(https://github.com/jeffhoffmanmba/D3-challenge/blob/main/D3_data_journalism/Images/7-animated-scatter.gif)
+![alt test](https://github.com/jeffhoffmanmba/D3-challenge/blob/main/D3_data_journalism/Images/7-animated-scatter.gif)
 
 #### 1. More Data, More Dynamics
 
