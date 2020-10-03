@@ -1,6 +1,6 @@
 # D3-challenge - Data Journalism and D3
 
-![Newsroom](/https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
+![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
 
@@ -23,7 +23,7 @@ The current data set includes data on rates of income, obesity, poverty, etc. by
 
 ### Core Assignment: D3 Dabbler (Required Assignment)
 
-![4-scatter](Images/4-scatter.jpg)
+![4-scatter](https://github.com/jeffhoffmanmba/D3-challenge/blob/main/D3_data_journalism/Images/4-scatter.jpg)
 
 You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
