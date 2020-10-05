@@ -65,7 +65,7 @@ chartGroup.selectAll("circle")
     .attr("cx", d => xScale(d.poverty))
     .attr("cy", d =>  yScale(d.healthcare))
     .attr("r", 12)
-    .attr("fill", "red");
+    .attr("fill", "lightblue");
  
 // add State abbrev to circles
 chartGroup.selectAll("text.text-circles")
